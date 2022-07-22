@@ -1,0 +1,14 @@
+# Binary files
+.alpackages/
+*.app
+
+# Temp files
+.vs/
+.vscode/
+
+# Extension files
+.alcache
+.altemplates/
+
+*.g.xlf
+rad.json
